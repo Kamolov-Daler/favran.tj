@@ -1,31 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.452b9914.chunk.css",
-    "main.js": "/static/js/main.62522b38.chunk.js",
-    "main.js.map": "/static/js/main.62522b38.chunk.js.map",
+    "main.css": "/static/css/main.207328ba.chunk.css",
+    "main.js": "/static/js/main.91a1d049.chunk.js",
+    "main.js.map": "/static/js/main.91a1d049.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f61c0ec5.js",
     "runtime-main.js.map": "/static/js/runtime-main.f61c0ec5.js.map",
     "static/css/2.2736117d.chunk.css": "/static/css/2.2736117d.chunk.css",
-    "static/js/2.5e190510.chunk.js": "/static/js/2.5e190510.chunk.js",
-    "static/js/2.5e190510.chunk.js.map": "/static/js/2.5e190510.chunk.js.map",
+    "static/js/2.f6bcdcf5.chunk.js": "/static/js/2.f6bcdcf5.chunk.js",
+    "static/js/2.f6bcdcf5.chunk.js.map": "/static/js/2.f6bcdcf5.chunk.js.map",
     "static/js/3.5a0a4e59.chunk.js": "/static/js/3.5a0a4e59.chunk.js",
     "static/js/3.5a0a4e59.chunk.js.map": "/static/js/3.5a0a4e59.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.2736117d.chunk.css.map": "/static/css/2.2736117d.chunk.css.map",
-    "static/css/main.452b9914.chunk.css.map": "/static/css/main.452b9914.chunk.css.map",
-    "static/js/2.5e190510.chunk.js.LICENSE.txt": "/static/js/2.5e190510.chunk.js.LICENSE.txt",
-    "static/media/eye.c2df0f2c.svg": "/static/media/eye.c2df0f2c.svg",
-    "static/media/instagramm.1d3c43e2.svg": "/static/media/instagramm.1d3c43e2.svg",
-    "static/media/king.acd59855.svg": "/static/media/king.acd59855.svg",
+    "static/css/main.207328ba.chunk.css.map": "/static/css/main.207328ba.chunk.css.map",
+    "static/js/2.f6bcdcf5.chunk.js.LICENSE.txt": "/static/js/2.f6bcdcf5.chunk.js.LICENSE.txt",
+    "static/media/eye.db0018b1.svg": "/static/media/eye.db0018b1.svg",
+    "static/media/favran.914392a6.svg": "/static/media/favran.914392a6.svg",
+    "static/media/instagramm.0c11158a.svg": "/static/media/instagramm.0c11158a.svg",
+    "static/media/king.8eca71b4.svg": "/static/media/king.8eca71b4.svg",
     "static/media/logo.2cc5570a.svg": "/static/media/logo.2cc5570a.svg",
     "static/media/phone-call.15dddfda.svg": "/static/media/phone-call.15dddfda.svg",
-    "static/media/telegramm.90d28e07.svg": "/static/media/telegramm.90d28e07.svg"
+    "static/media/telegramm.fd22abfc.svg": "/static/media/telegramm.fd22abfc.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f61c0ec5.js",
     "static/css/2.2736117d.chunk.css",
-    "static/js/2.5e190510.chunk.js",
-    "static/css/main.452b9914.chunk.css",
-    "static/js/main.62522b38.chunk.js"
+    "static/js/2.f6bcdcf5.chunk.js",
+    "static/css/main.207328ba.chunk.css",
+    "static/js/main.91a1d049.chunk.js"
   ]
 }
